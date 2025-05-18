@@ -1,0 +1,2 @@
+Multivariate time series imputation remains a pivotal prob- lem in advanced data analysis. Time series data is ubiq- uitous, stretching across healthcare, finance, meteorology, and, in this paper, oil tank data. However, recordings are not always complete: instrument malfunctions, data corruption, communication failures, weather restrictions, or even regulatory changes produce missing values. One widespread solution to this issue is imputation: the process of replacing missing points in a dataset based on observed values.
+
